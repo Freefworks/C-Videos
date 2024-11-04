@@ -1,0 +1,11 @@
+@media screen and (max-width:767px) {iframe[src*="rumble"] {width: 100% !important; height: 200px !important;}}
+ul{list-style-type: none; border:outset; background-color:lightsteelblue;}
+body{background-image: url('cloud.png'); font-family: 'Custom'; background-repeat: no-repeat; background-attachment: fixed; background-size:cover;}
+h1{border:outset; background-color:lightsteelblue;}
+p{border:outset; background-color:lightsteelblue;}
+ol{border:outset; background-color:lightsteelblue;}
+img{border:outset; background-color:lightsteelblue;}
+@font-face {font-family: 'Custom'; src: url('Aero.ttf');}
+input{font-family: 'Custom'; border:inset; background-color:lightcyan;}
+button{font-family: 'Custom'; border:outset; background-color:lightsteelblue;}
+a{text-decoration: none;}
